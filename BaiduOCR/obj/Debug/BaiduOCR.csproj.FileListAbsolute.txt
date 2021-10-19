@@ -1,0 +1,9 @@
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\obj\Debug\BaiduOCR.csprojResolveAssemblyReference.cache
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\BaiduOCR.exe.config
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\BaiduOCR.exe
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\BaiduOCR.pdb
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\AipSdk.dll
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\Newtonsoft.Json.dll
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\bin\Debug\AipSdk.pdb
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\obj\Debug\BaiduOCR.exe
+G:\SharpDevelop Projects\BaiduOCR\BaiduOCR\obj\Debug\BaiduOCR.pdb
